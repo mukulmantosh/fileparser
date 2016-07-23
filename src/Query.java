@@ -11,7 +11,7 @@ public class Query {
 
 	//  Database credentials
 	static final String USER = "root";
-	static final String PASS = "jackie987";
+	static final String PASS = "root";
 
 
 	public static void main(String[] args) throws ClassNotFoundException, SQLException {
